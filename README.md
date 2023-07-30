@@ -14,7 +14,7 @@ I have participated in various accelerator programmes and courses including Tour
 
 With a background in graphic design and web development, I've worked as a freelance creative and technical problem-solver on hundreds of projects for global brands at top London agencies such as Radley Yeldar, Imagination, GOOD and Hogarth Worldwide as well as corporate and government environments.
 
-I'm an expert Creative Suite user (print, digital and motion) and full stack developer (html, js, php, sql). I build fast, light and accessible sites and powerful web apps. 
+I'm also a full stack developer (html, js, php, sql). I build fast, light and accessible sites and powerful web apps. 
 
 I'm always open to hearing about new projects. Contact me for a chat. No recruitment agencies please.
 <!---
